@@ -5,7 +5,7 @@
 <div id="badges" align = "center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)"/>
+  <img src="https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
 </div>
 
 
