@@ -8,12 +8,22 @@
 <div align = "Center">
   <img src="https://komarev.com/ghpvc/?username=ShobhitTomer&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
- --- 
 
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m a passionate Software Engineer and currently is exploring frontend and backend for building robust web applications.
+
+- :seedling: Exploring Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read Novels.
+
+- :mailbox:How to reach me: shobhittomer0810@gmail.com
 <!--
 **ShobhitTomer/ShobhitTomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
