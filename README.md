@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Web3 and Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read Novels.
+- :zap: In my free time, I solve problems on Leetcode and do 3d animation.
 
 - :mailbox:How to reach me: shobhittomer0810@gmail.com
 <!--
