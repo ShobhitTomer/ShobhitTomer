@@ -19,7 +19,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a passionate Software Engineer and currently is exploring frontend and backend for building robust web applications.
 
-- :seedling: Exploring Content Writing.
+- :seedling: Exploring Web3 and Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read Novels.
 
